@@ -2,44 +2,48 @@
 
 I'm passionate about problem solving and data-driven decision making and I have a background in Mathematics. I am currently working on personal projects and seeking opportunities in London, UK as I am relocating in early 2024. 
 
-## Languages and Tools:
+## Skills and Competencies
+### Programming Languages and Tools 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />
-<img align="left" alt="SQL" width="26px" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt = "Power BI" src="https://github.com/clerycolm/clerycolm/assets/138722421/11c531f6-9ef5-4286-ab4a-37fb62718bfc" width="26" height="26">
-
+### Data Analytics & Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <br />
-
 
 ## Projects
 
-### Estimation of Non-Stationary Linear Time Series
+### [Estimation of Non-Stationary Linear Time Series](https://github.com/clerycolm/Bachelors-Thesis)
 -  Initiated during my tenure as a Research Assistant and concluded as the Bachelor's Thesis for my B.Sc in Financial Mathematics and Actuarial Science. Attained a final grade of ***75%***
 -  Developing estimation methods by approximating ARMA process as finite AR processes.
 -  Investigated
 estimation of purely explosive and mixed root model coefficients with respect to independent hyperparameters, proposing hypotheses surrounding convergence and consistency.
 -  **Key Skills and Tools:** R, Latex, Time Series Analysis, Research Design, Communication, Presentation
--  **Repository:** [https://github.com/clerycolm/Bachelors-Thesis]
 
-### Chess Game Results Analysis and Classification
+### [Chess Game Results Analysis and Classification](https://github.com/clerycolm/Chess-Games-Analysis)
 - The analysis explores chess's complexities and the factors affecting game outcomes for titled players.
 - Dataset comprises 20,000+ games and was collected from Chess.com using a python web scraping script.
 - Generated insights into factors affecting game outcomes via exploratory data analysis.
 - Generated Classification models using Multinomial Logistic Regression, Random Forests, KNN and SVM models. Achieved a test accuracy score of ***91%***.
 - **Key Skills and Tools:** Python (scikit-learn, statsmodels, numpy, pandas, matplotlib, seaborn), Web Scraping ( Beautiful Soup, selenium ), Multiclass Classification, Exploratory Data Analysis
--  **Repository:** [https://github.com/clerycolm/Chess-Games-Analysis]
 
-### Forecasting Residential Property Value in Ireland
+### [Forecasting Residential Property Value in Ireland](https://github.com/clerycolm/Property-Value-Forecasting)
 - Prompted by Ireland's housing and living cost challenges, this project models changes in Residential Property Transaction Value in Ireland since 2010.
 - This project focuses on the fundamental of fitting time series models, conducting diagnostics, making forecasts, and analysing the implications of the forecasted values.
 - This project was completed as part of undergraduate Time Series module focuses on time series modelling.
 - **Key Skills and Tools:** R, Time Series Analysis
-- **Repository:** [https://github.com/clerycolm/Property-Value-Forecasting]
-
 
 <!--
 **clerycolm/clerycolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
