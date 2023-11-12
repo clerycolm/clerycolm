@@ -1,4 +1,4 @@
-## Hello, I'm Colm Clery 👋
+## Hello, I'm Colm 👋
 
 I'm passionate about using data, mathematics and computer science to answer interesting questions, solve problems and drive decision making. I am currently working on personal projects and seeking opportunities in London, UK as I am relocating in early 2024. 
 
