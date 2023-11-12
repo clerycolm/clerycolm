@@ -1,6 +1,6 @@
 ## Hello, I'm Colm Clery 👋
 
-I'm passionate about problem solving and data-driven decision making. I am currently working on personal projects and seeking opportunities in London, UK as I am relocating in early 2024. 
+I'm passionate about using data, mathematics and cmoputer science to answer interesting questions, build products and drive decision making. I am currently working on personal projects and seeking opportunities in London, UK as I am relocating in early 2024. 
 
 <br />
 
