@@ -2,8 +2,6 @@
 
 I'm passionate about using data, mathematics and computer science to answer interesting questions, solve problems and drive decision making. I am currently working on personal projects and seeking opportunities in London, UK as I am relocating in early 2024. 
 
-<br />
-
 ## Projects
 
 ### [Estimation of Non-Stationary Linear Time Series](https://github.com/clerycolm/Bachelors-Thesis)
@@ -25,8 +23,6 @@ estimation of purely explosive and mixed root model coefficients with respect to
 - This project focuses on the fundamental of fitting time series models, conducting diagnostics, making forecasts, and analysing the implications of the forecasted values.
 - This project was completed as part of undergraduate Time Series module focuses on time series modelling.
 - **Key Skills and Tools:** R, Time Series Analysis
-
-<br />
 
 ## Skills and Competencies
 ### Programming Languages and Tools 
