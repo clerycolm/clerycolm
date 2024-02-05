@@ -1,6 +1,6 @@
 ## Hello, I'm Colm 👋
 
-I'm passionate about using data, mathematics and computer science to answer interesting questions, solve problems and drive decision making.
+I'm passionate about using data science, mathematics and computer science to answer interesting questions, solve problems and drive decision making.
 
 ## Projects
 
