@@ -1,6 +1,6 @@
 ## Hello, I'm Colm 👋
 
-I'm passionate about using data science, mathematics and computer science to answer interesting questions, solve problems and drive decision making.
+A Part-Qualified Actuarial Analyst / Data Analyst. Graduated with First-Class Honours from B.Sc Financial Math and Actuarial Science
 
 ## Projects
 
